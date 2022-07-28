@@ -54,27 +54,10 @@
 * Avenue Code http://blog.avenuecode.com/
 
 #### B companies
-* Babbel https://bytes.babbel.com/en/
-* Backtrace https://backtrace.io/blog/
-* Badoo https://techblog.badoo.com/
-* Baidu Research http://research.baidu.com/Blog
-* Bandcamp https://bandcamptech.wordpress.com/
 * Base Lab https://lab.getbase.com/category/engineering/
-* Bazaarvoice https://blog.developer.bazaarvoice.com/
 * BBC https://medium.com/bbc-design-engineering/
-* Benchling https://benchling.engineering/
-* BenefitFocus https://www.benefitfocus.com/blogs/design-engineering
-* Bigcommerce http://www.bigeng.io/
 * Binary Studio https://binary-studio.com/blog/
-* Bitly http://word.bitly.com/
-* BitTorrent http://engineering.bittorrent.com/
-* BlaBlaCar http://blablatech.com/blog/
-* BlackRock http://rockthecode.io/
-* Blender https://code.blender.org/
-* Blogfoster http://engineering.blogfoster.com/
 * Booking.com https://blog.booking.com/
-* Boxever http://www.boxever.com/blog/
-* Brandwatch http://engineering.brandwatch.com/
 * Buzzfeed https://www.buzzfeed.com/techblog
 
 #### C companies
