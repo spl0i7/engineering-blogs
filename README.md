@@ -62,36 +62,16 @@
 
 #### C companies
 * Canva https://engineering.canva.com
-* Capgemini https://capgemini.github.io/
 * CenturyLink https://www.ctl.io/developers/blog
-* Cerner http://engineering.cerner.com/
-* Chaps https://blog.chaps.io/
-* Chartbeat http://engineering.chartbeat.com/
-* Chef https://blog.chef.io
-* Clever https://engineering.clever.com/
-* CleverTap https://clevertap.com/blog/tag/engineering/
-* CloudBees https://www.previous.cloudbees.com/blog
 * Cloudera https://blog.cloudera.com/
 * Cloudflare https://blog.cloudflare.com/
 * CockroachDB https://www.cockroachlabs.com/blog/
-* Code Better http://codebetter.com/
-* Codelitt https://www.codelitt.com/blog/
-* Codemancers https://crypt.codemancers.com/
-* Codementor https://www.codementor.io/tutorial
-* CodeName One http://www.codenameone.com/blog.html
-* Codeship https://blog.codeship.com/
 * Coinbase https://engineering.coinbase.com/
-* Collective Idea https://collectiveidea.com/blog
 * Commercetools https://techblog.commercetools.com/
-* Condé Nast https://technology.condenast.com/
 * Confluent https://www.confluent.io/blog
 * Convox https://convox.com/blog
-* Coolblue http://devblog.coolblue.nl/
-* Credit Karma https://engineering.creditkarma.com/
 * Criteo https://medium.com/criteo-labs
 * Crowdfire https://crowdfire.engineering/
-* CSC - IT Center For Science - Cloud Team https://cloud.blog.csc.fi/
-* Curalate http://engineering.curalate.com/
 
 #### D companies
 * Data Artisans https://data-artisans.com/blog/
