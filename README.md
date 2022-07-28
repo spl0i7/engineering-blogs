@@ -69,23 +69,13 @@
 * Coinbase https://engineering.coinbase.com/
 * Commercetools https://techblog.commercetools.com/
 * Confluent https://www.confluent.io/blog
-* Convox https://convox.com/blog
 * Criteo https://medium.com/criteo-labs
 * Crowdfire https://crowdfire.engineering/
 
 #### D companies
-* Data Artisans https://data-artisans.com/blog/
-* Databricks https://databricks.com/blog
-* DataFox http://eng.datafox.co/
-* Deezer https://deezer.io/
-* DeferPanic https://deferpanic.com/blog/
-* Deliveroo https://deliveroo.engineering/
 * DigitalOcean https://blog.digitalocean.com/tag/engineering/
 * Discord https://blog.discordapp.com/
 * Docker https://blog.docker.com/
-* DoorDash https://blog.doordash.com/tagged/engineering
-* Doximity https://engineering.doximity.com
-* Drivy https://drivy.engineering/
 * Dropbox https://blogs.dropbox.com/tech/
 
 #### E companies
